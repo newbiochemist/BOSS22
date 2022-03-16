@@ -81,12 +81,11 @@ search: false
 # Specify order of pages
 header_pages:
   - index.markdown
-  - schedule.markdown
   - speakers.markdown
   - register.markdown
-  - sponsors.markdown
   - codeofconduct.markdown
   - committee.markdown
+  - privacy.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
