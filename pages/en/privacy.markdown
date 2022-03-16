@@ -8,7 +8,7 @@ lang: en
 ## Privacy
 
 The site is hosted on [GitHub Pages](https://pages.github.com/). No cookies are stored. When you visit a site, the computer
-serving he site can collect information such as your ip address, browser, operating system etc. For more information on this
+serving the site can collect information such as your ip address, browser, operating system etc. For more information on this
 see [GitHub's privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 Registration details are stored on [Host Pinnacle Kenya](https://www.hostpinnacle.co.ke/) and your email will be used to send 
