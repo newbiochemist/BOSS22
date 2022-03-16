@@ -27,7 +27,7 @@ Margaret serves the role of secretary to the BHKI steering committee. She is a b
 <!--add bio here-->
   
 ## Michael Kofia
-![Michael Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png) 
+![Michael Photo]({{ site.baseurl }}assets/images/Screenshot 2022-03-16 at 08.59.41.png){: height="150" width="150" }
 
 Michael is a bioinformatic student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya (BHKI). He is a certified software carpentry instructor, an Open Life Science (OLS) graduate and a mentor. He is passionate about capacity building. 
 Hobbies: Triathlon!
