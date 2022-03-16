@@ -27,7 +27,7 @@ Margaret serves the role of secretary to the BHKI steering committee. She is a b
 Kennedy is a bioinformatician working on breast cancer genomic data. He is a founding member of the OpenScienceKE Initiative and a certified Carpentries instructor.
   
 ## Michael Kofia
-![Michael Photo]({{ site.baseurl }}assets/images/Landi_Image.png){: height="150" width="150" }
+![Michael Photo]({{ site.baseurl }}/assets/images/Landi_Image.png){: height="150" width="150" }
 
 Michael is a bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya (BHKI). He is a certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. He is passionate about capacity building. 
 Hobbies: Triathlon!
