@@ -27,9 +27,10 @@ Margaret serves the role of secretary to the BHKI steering committee. She is a b
 Kennedy is a bioinformatician working on breast cancer genomic data. He is a founding member of the OpenScienceKE Initiative and a certified Carpentries instructor.
   
 ## Michael Kofia
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png) 
-  
-A co-founder of BHKi, holding the role of organizing secretary in BHKi, a genomics guru currently working with IITA at ILRI, and passionate about capacity building. Ask him anything to do with R and you'll be set.
+![Michael Photo]({{ site.baseurl }}assets/images/Screenshot 2022-03-16 at 08.59.41.png){: height="150" width="150" }
+
+Michael is a bioinformatic student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya (BHKI). He is a certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. He is passionate about capacity building. 
+Hobbies: Triathlon!
 
 ## Benson Muite
 ![Avatar for Benson Muite]({{ site.baseurl }}/assets/images/Benson.svg){: height="150" width="150" }

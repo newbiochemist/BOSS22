@@ -27,9 +27,9 @@ lang: sw
 <!--add bio here-->
   
 ## Michael Kofia
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png) 
+![Michael Picha]({{ site.baseurl }}assets/images/Screenshot 2022-03-16 at 08.59.41.png){: height="150" width="150" }
   
-Ni mhazili wa BHKi, shirika alianzisha na wengine.  Ni mbingu wa sayansi ya msingi ya biolojia. Anafanya kazi na IITA, katika ILRI, na apenda kuelimisha. Anajua R sana, mwulize swali na utakua sawa.
+Michael ni mwanafunzi wa bioinformatic na nia ya epigenetics na genomics. Mwanzilishi mwenza wa Bioinformatics Hub ya Kenya (BHKI). Yeye ni mwalimu wa programu ya kuthibitishwa, mhitimu wa Sayansi ya Maisha ya Open (OLS) na mshauri. Yeye ni shauku juu ya kujenga uwezo. Kuburudika: Kukimbia, Baiskeli na Kuogelea moja kwa moja (kwa Kiingereaza Triathlon)!
 
 
 ## Benson Muite
