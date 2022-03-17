@@ -7,7 +7,7 @@ permalink: /submit/
 lang: en
 ---
 
-## Call for Abstract Submissions:
+## [Call for Abstract Submissions](https://openreview.net/group?id=bioinformatics-hub-ke.github.io/BOSS/2022/Conference):
 
 <!--Add a call for abstract submissions-->
 We invite submissions to the BOSS conference 2022 (also known as BOSSCon 2022), which aims to empower researchers with skills in bioinformatics and open science. We would love to receive abstracts for contributed talks by 4th April 2022. BOSSCon 2022 covers all aspects of bioinformatics and open science, including (but not limited to) these topics:
@@ -28,7 +28,6 @@ We invite submissions to the BOSS conference 2022 (also known as BOSSCon 2022), 
 - Contamination of water
 - Careers in open science
 - Alternative career paths in genomics
-- Working and studying outside Kenya
 
 ### The review process
 
