@@ -27,9 +27,9 @@ Margaret serves the role of secretary to the BHKI steering committee. She is a b
 Kennedy is a bioinformatician working on breast cancer genomic data. He is a founding member of the OpenScienceKE Initiative and a certified Carpentries instructor.
   
 ## Michael Kofia
-![Michael Photo]({{ site.baseurl }}assets/images/Screenshot 2022-03-16 at 08.59.41.png){: height="150" width="150" }
+![Michael Photo]({{ site.baseurl }}/assets/images/Landi_Image.png){: height="150" width="150" }
 
-Michael is a bioinformatic student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya (BHKI). He is a certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. He is passionate about capacity building. 
+Michael is a bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya (BHKI). He is a certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. He is passionate about capacity building. 
 Hobbies: Triathlon!
 
 ## Benson Muite
@@ -45,7 +45,7 @@ Festus is a Bioinformatician and a Data Scientist using statistical tools and co
 ## David Kiragu
 ![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png){: height="150" width="150" }
 
-David is a bioinformatics student with a keen interest in both genomic data production and using computational skill sets to answer research questions in the field of zoonotic diseases and wildlife conservation. He is a BiXCop 2021 fellow and has a background in Bioinformatics, Molecular Biology and Microbiology. Due to this special interest in capacity development and community outreach, he is also a co-founder and trainer at Bioinformatics Hub of Kenya Initiative(BHKi) and African International Biotechnology and Biomedical Conference. His current affiliation is at the Institute of Primate Research(IPR), Kenya. Fun activities: cycling and travelling. 
+David is a bioinformatics student with a keen interest in both genomic data production and using computational skill sets to answer research questions in the fields of zoonotic diseases and wildlife conservation. He is a BiXCop 2021 fellow and has a background in Bioinformatics, Molecular Biology and Microbiology. Due to this special interest in capacity development and community outreach, he is also a co-founder and trainer at Bioinformatics Hub of Kenya Initiative(BHKi) and African International Biotechnology and Biomedical Conference. His current affiliation is at the Institute of Primate Research(IPR), Kenya. Fun activities: Cycling and travelling. 
   
 ## Ruth Nanjala
 ![Nanjala's Photo]({{ site.baseurl }}/assets/images/Ruth.Nanjala.photograph.jpg){: height="150" width="150" } 

@@ -7,29 +7,29 @@ toc_sticky: true
 lang: sw
 ---
 ## Caleb Kibet (Mwongozi)
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Caleb]({{ site.baseurl }}/assets/images/Caleb.jpg){: height="150" width="150" }
 
 <!-- add bio here-->
   
 ## Pauline Karega
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Pauline]({{ site.baseurl }}/assets/images/Pauline.jpg){: height="150" width="150" }
 
 <!--add bio here-->
   
 ## Margaret Wanjiku
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Margaret]({{ site.baseurl }}/assets/images/MWanjiku-profile-pic.jpg){: height="150" width="150" }
 
 <!--add bio here-->
   
 ## Kennedy Mwangi
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Picha ya Kennedy]({{ site.baseurl }}/assets/images/Kennedy_prof_pic.jpg){: height="150" width="150" }
   
 <!--add bio here-->
   
 ## Michael Kofia
-![Michael Picha]({{ site.baseurl }}assets/images/Screenshot 2022-03-16 at 08.59.41.png){: height="150" width="150" }
+![Michael Picha]({{ site.baseurl }}/assets/images/Landi_Image.png){: height="150" width="150" }
   
-Michael ni mwanafunzi wa bioinformatic na nia ya epigenetics na genomics. Mwanzilishi mwenza wa Bioinformatics Hub ya Kenya (BHKI). Yeye ni mwalimu wa programu ya kuthibitishwa, mhitimu wa Sayansi ya Maisha ya Open (OLS) na mshauri. Yeye ni shauku juu ya kujenga uwezo. Kuburudika: Kukimbia, Baiskeli na Kuogelea moja kwa moja (kwa Kiingereaza Triathlon)!
+Michael ni mwanafunzi wa bioinformatic na nia ya epigenetics na genomics. Mwanzilishi mwenza wa Bioinformatics Hub ya Kenya (BHKI). Yeye ni mwalimu wa programu ya kuthibitishwa, mhitimu wa Sayansi ya Maisha ya Open (OLS) na mshauri. Yeye ni shauku juu ya kujenga uwezo. Kuburudika: Kukimbia, Baiskeli na Kuogelea moja kwa moja (kwa Kiingereza Triathlon)!
 
 
 ## Benson Muite
