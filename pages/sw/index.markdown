@@ -12,6 +12,10 @@ permalink: /
 
 Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 hadi Aprili 2022.  Tukio hii itasaidia wanachama kuonyesha kazi yao, kujifunza na kuelemishwa. Ni nafasi ya kukutana na wachunguzi wengine.
 
+# Jiandikisha
+
+[Jiandikisha kuingia mkutano kwa mtandao](https://registration.bhki.org)
+
 # Tarehe Muhimu
 
 - Mkutano kwa mtandao: 26-29 Aprili 2022
@@ -20,7 +24,7 @@ Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 ha
 
 - Kauli ya Wasemaji: 18 Aprili 2022
 
-- Aanzisho wa Usajili: 10 Machi 2022
+- Aanzisho wa Usajili: 17 Machi 2022
 
 # Mada ya Mkutano
 

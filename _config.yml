@@ -82,7 +82,7 @@ search: false
 header_pages:
   - index.markdown
   - speakers.markdown
-  - register.markdown
+  - submit.markdown
   - codeofconduct.markdown
   - committee.markdown
   - privacy.markdown
