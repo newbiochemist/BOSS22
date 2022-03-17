@@ -16,7 +16,7 @@ interact with other researchers and more.
 
 # Register
 
-[Register to attend](https://registration.bhki.oorg)
+[Register to attend](https://registration.bhki.org)
 
 # Important Dates
 
