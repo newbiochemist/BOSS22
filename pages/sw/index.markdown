@@ -14,7 +14,7 @@ Mkutano wa BOSS 2022 ni tukio wa tano na wa mwisho za BOSS kutoka Oktoba 2021 ha
 
 # Jiandikisha
 
-[Jiandikisha kuingia mkutano kwa mtandao](https://registration.bhki.org)
+[Jiandikisha kuingia mkutano kwa mtandao](https://events.zoom.us/ev/ANb6Jc2bYzHsLbGBjv3l1BpDLNHx2xsZ_34dgQV_YlQ9IguF1qUXozBxTOg_xLHqd4pEjhI)
 
 # Tarehe Muhimu
 
