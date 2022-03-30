@@ -53,6 +53,7 @@ David is a bioinformatics student with a keen interest in both genomic data prod
 Nanjala is a junior bioinformatician at ICIPE. She currently leads the bionformatics mentorship and incubation program, aimed at increasing the number of well trained bioinformaticians to support genomics research. She is interested in understanding the genetics of HLA and its association to complex immune mediated traits. She is also passionate about capacity building and she has been involved in different projects that support capacity building. Nanjala has formal training in Bioinformatics and Microbiology.
   
 ## Sarah Nyanchera
-![Add Profile Photo](https://sbcf.fr/wp-content/uploads/2018/03/sbcf-default-avatar.png)
+![Sarah_Nyakeri_N](https://user-images.githubusercontent.com/45894410/160915507-4adca2ba-b883-48b8-986d-45598a1b3804.jpg)
 
-<!--add bio here-->
+Sarah Nyakeri is a Scientist, the Host of The Vulnerable Scientist podcast, Informal Science communicator and a hiker. She is a Masters student at JKUAT and an ILRI MSc Fellow working on a project (Identification of virulence factors as novel vaccine targets for contagious bovine pleuropneumonia by the whole genome saturated mutagenesis) incorporating Molecular Biology and Bioinformatics. 
+
